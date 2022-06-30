@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1575" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/font/aladin.xml" value="0.14635416666666667" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/layout/activity_main.xml" value="0.12613981762917933" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/layout/activity_maps.xml" value="0.12613981762917933" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/layout/activity_slider.xml" value="0.11614583333333334" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/layout/fragment_about.xml" value="0.11614583333333334" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/layout/fragment_home.xml" value="0.11614583333333334" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/layout/fragment_profil.xml" value="0.11614583333333334" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/layout/slider1.xml" value="0.11614583333333334" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/layout/slider2.xml" value="0.11614583333333334" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/layout/slider3.xml" value="0.11614583333333334" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/layout/splash_screen.xml" value="0.12613981762917933" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/menu/bottom_nav.xml" value="0.11614583333333334" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/menu/edit_menu.xml" value="0.11614583333333334" />
+        <entry key="..\:/backup/SMTR 6/Aplikasi Komputasi Bergerak/Tugas/MapIn/app/src/main/res/menu/main_menu.xml" value="0.11614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

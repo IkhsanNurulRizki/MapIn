@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splashscreen"
+    android:background="@color/purple_700">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:src="@drawable/img_3" />
+
+    <TextView
+        android:id="@+id/nim"
+        android:layout_width="80dp"
+        android:layout_height="20dp"
+        android:text="10119097"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="120dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Ikhsan Nurul Rizki"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/kelas"
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="40dp"
+        android:text="IF-3"
+        android:textColor="@color/white"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="520dp"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="370dp"
+        android:text="MapIn"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

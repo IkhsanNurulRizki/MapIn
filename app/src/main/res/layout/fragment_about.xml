@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".AboutFragment">
+
+    <TextView
+        android:id="@+id/tgl_pengerjaan"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:text="20-04-2022"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/nim"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:text="10119097"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginTop="40dp"
+        android:text="Ikhsan Nurul Rizki"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/kelas"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginTop="60dp"
+        android:text="IF-3"
+        android:textColor="@color/white"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="400dp"
+        android:layout_height="262dp"
+        android:layout_marginTop="470dp"
+        android:layout_marginRight="90dp"
+        android:src="@drawable/dumbbell" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="150dp"
+        android:layout_height="262dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="90dp"
+        android:src="@drawable/img_3" />
+
+    <TextView
+        android:id="@+id/nama2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ikhsan Nurul Rizki"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="400dp"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:fontFamily="@font/aladin"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/aboutnama"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="180dp"
+        android:textSize="40sp"
+        android:text="NotesIn"
+        android:fontFamily="@font/aladin"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/versi"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginLeft="190dp"
+        android:textSize="40sp"
+        android:text="Versi 1.0"
+        android:fontFamily="@font/aladin"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="120dp"
+        android:textSize="40sp"
+        android:text="Dibuat Oleh:"
+        android:fontFamily="@font/aladin"
+        android:textColor="@color/white"/>
+
+
+</FrameLayout>

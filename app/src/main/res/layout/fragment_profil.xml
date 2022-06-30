@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".profilFragment">
+
+    <TextView
+        android:id="@+id/tgl_pengerjaan"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:text="20-04-2022"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/nim"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:text="10119097"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginTop="40dp"
+        android:text="Ikhsan Nurul Rizki"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/kelas"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginTop="60dp"
+        android:text="IF-3"
+        android:textColor="@color/white"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="226dp"
+        android:layout_height="262dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="90dp"
+        android:layout_marginRight="90dp"
+        android:src="@drawable/me2" />
+
+    <TextView
+        android:id="@+id/nama2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ikhsan Nurul Rizki "
+        android:layout_marginLeft="90dp"
+        android:layout_marginRight="90dp"
+        android:layout_marginTop="400dp"
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        android:fontFamily="@font/aladin"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/nim2"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="470dp"
+        android:layout_marginLeft="8dp"
+        android:textSize="23sp"
+        android:text="10119097"
+        android:fontFamily="@font/aladin"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/kelas2"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="500dp"
+        android:layout_marginLeft="8dp"
+        android:textSize="23sp"
+        android:text="IF-3"
+        android:fontFamily="@font/aladin"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="530dp"
+        android:layout_marginLeft="8dp"
+        android:textSize="27sp"
+        android:text="ikhsan.n.rizki@gmail.com"
+        android:fontFamily="@font/aladin"
+        android:textColor="@color/white"/>
+
+
+</FrameLayout>
